@@ -6,9 +6,16 @@ Codes and notes while learning crypto math
 
 * <https://github.com/ebellocchia/bip_utils>
 * <https://github.com/sebastienrousseau/kyberlib>
+* <https://github.com/aws/aws-lc-rs>
 
 ## Math Book
 
+* <https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra>
 * <https://github.com/Visualize-ML/Book4_Power-of-Matrix>
 
 ## Crypto Book
+
+## Math tools
+
+* <https://scientific.place/math-encrypt/>
+* <https://www.standardsapplied.com/nonlinear-curve-fitting-calculator.html>

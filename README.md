@@ -12,6 +12,7 @@ Codes and notes while learning crypto math
 
 * <https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra>
 * <https://github.com/Visualize-ML/Book4_Power-of-Matrix>
+* <https://www.relational-algebra.dev/ra-primer/introduction/> - Relational algebra
 
 ## Crypto Book
 

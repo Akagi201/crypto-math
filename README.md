@@ -20,3 +20,7 @@ Codes and notes while learning crypto math
 
 * <https://scientific.place/math-encrypt/>
 * <https://www.standardsapplied.com/nonlinear-curve-fitting-calculator.html>
+
+## Challenges
+
+* <https://www.cryptopals.com/> - rust solutions <https://github.com/debajyotid2/cryptopals> article: <https://elastio.github.io/bon/blog/how-to-do-named-function-arguments-in-rust>

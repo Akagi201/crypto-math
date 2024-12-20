@@ -17,6 +17,9 @@ Codes and notes while learning crypto math
 
 ## Crypto Book
 
+* <https://github.com/0xPARC/0xparc-intro-book>
+* <https://github.com/LeastAuthority/moonmath-manual>
+
 ## Math tools
 
 * <https://scientific.place/math-encrypt/>
